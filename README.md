@@ -42,9 +42,9 @@ Heart disease remains one of the leading causes of death worldwide. Early risk d
 
 ## How to Run
 
-1. Clone the repo and install requirements:
+1. Install Required Library:
     ```
-    pip install -r requirements.txt
+    pip install streamlit
     ```
 
 2. Run the Streamlit app:
@@ -52,10 +52,6 @@ Heart disease remains one of the leading causes of death worldwide. Early risk d
     streamlit run app.py
     ```
 
-## Example Screenshots
-
-![Demo Screenshot](demo_screenshot.png)
-*App interface for entering health details and receiving predictions.*
 
 ## Key Takeaways
 
@@ -64,5 +60,5 @@ Heart disease remains one of the leading causes of death worldwide. Early risk d
 - Visualizations provide valuable insights and make findings understandable.
 - Deploying models as web apps bridges the gap between data science and real-world use.
 
-## File Structure
+
 
