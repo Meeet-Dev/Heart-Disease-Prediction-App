@@ -42,9 +42,12 @@ Heart disease remains one of the leading causes of death worldwide. Early risk d
 
 ## How to Run
 
-1. Install Required Library:
+1. Install Required Libraries:
     ```
     pip install streamlit
+
+    pip install joblib
+
     ```
 
 2. Run the Streamlit app:
